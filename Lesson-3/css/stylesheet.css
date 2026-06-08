@@ -1,0 +1,9 @@
+h1, h2, h3 {
+    font-size: larger;
+}
+
+p {
+    display: block;
+    margin-block-start: 4em;
+    margin-block-end: 4em;
+}
