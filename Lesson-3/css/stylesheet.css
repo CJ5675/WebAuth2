@@ -6,4 +6,10 @@ p {
     display: block;
     margin-block-start: 4em;
     margin-block-end: 4em;
+    font-size: large;
+    font-style: bold;
+}
+
+background {
+    background-color: orange;
 }
